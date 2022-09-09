@@ -1,10 +1,11 @@
 import {Link} from "react-router-dom"
 
 export function Navbar () {
-    return <div>
+    return <div className="navbar">
         <Link to="/">
-            <img src='https://cdn-icons-png.flaticon.com/512/60/60817.png'/>
+            <img src='https://images.vexels.com/media/users/3/136194/isolated/preview/d69cdf2ac2a18f1be46058f04b5629ca-icone-de-casa.png' />
         </Link>
+        
 
         
     </div>

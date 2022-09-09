@@ -1,0 +1,16 @@
+.navbar {
+    display: flex;
+    position: absolute;
+    width: 100%;
+    
+    margin: -8px;
+    padding: 50px;
+
+    background-color: rgb(255, 222, 140);
+}
+
+img {
+    display: flex;
+    width: 40px;
+}
+
